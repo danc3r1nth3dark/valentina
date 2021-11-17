@@ -4,10 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Приветствую Вас! Меня зовут Валентна. Мне 78 лет. Я пишу стихи и часто езжу на дачу, чтобы перекапывать грядки. Я люблю делать варенье и консервировать огурцы и помидоры.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-Я считаю, что в современном мире люди очень одиноки. Но они в этом не виноваты. Им не хватает тепла и добра, они слишком разобщены и отчуждены друг от друга. Помимо всего прочего, ими часто пытаются манипулировать те, кто хочет извлечь из этих манипуляций выгоду.
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-Давайте относиться друг к другу хорошо. Любить, а не ненавидеть. Пусть это и не всегда получается, но я считаю, что надо стремиться к этому.
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
-[twitter](https://twitter.com/valentina_altz)
+
+[jekyll-organization]: https://github.com/jekyll
